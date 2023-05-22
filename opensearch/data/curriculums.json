@@ -1,0 +1,207 @@
+{
+"curriculums": [
+	{
+		"id" : 1,
+		"country_id" : 13,
+		"name" : "Australian Capital Territory",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 2,
+		"country_id" : 13,
+		"name" : "New South Wales",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 3,
+		"country_id" : 13,
+		"name" : "Northern Territory",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 4,
+		"country_id" : 13,
+		"name" : "South Australia",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 5,
+		"country_id" : 13,
+		"name" : "Queensland",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 6,
+		"country_id" : 13,
+		"name" : "Tasmania",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 7,
+		"country_id" : 13,
+		"name" : "Victoria",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 8,
+		"country_id" : 13,
+		"name" : "Western Australia",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 9,
+		"country_id" : 171,
+		"name" : "Northland",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 10,
+		"country_id" : 171,
+		"name" : "Auckland",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 11,
+		"country_id" : 171,
+		"name" : "Waikato",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 12,
+		"country_id" : 171,
+		"name" : "Bay of Plenty",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 13,
+		"country_id" : 171,
+		"name" : "Gisborne",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 14,
+		"country_id" : 171,
+		"name" : "Hawke's Bay",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 15,
+		"country_id" : 171,
+		"name" : "Taranaki",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 16,
+		"country_id" : 171,
+		"name" : "Manawatu-Wanganui",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 17,
+		"country_id" : 171,
+		"name" : "Wellington",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 18,
+		"country_id" : 171,
+		"name" : "Tasman",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 19,
+		"country_id" : 171,
+		"name" : "Nelson",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 20,
+		"country_id" : 171,
+		"name" : "Marlborough",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 21,
+		"country_id" : 171,
+		"name" : "West Coast",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 22,
+		"country_id" : 171,
+		"name" : "Canterbury",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 23,
+		"country_id" : 171,
+		"name" : "Otago",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 24,
+		"country_id" : 171,
+		"name" : "Southland",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 25,
+		"country_id" : 77,
+		"name" : "AQA",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 26,
+		"country_id" : 77,
+		"name" : "Cambridge Assessment International Education",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 27,
+		"country_id" : 77,
+		"name" : "Edexcel",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 28,
+		"country_id" : 77,
+		"name" : "International Baccalaureate",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 29,
+		"country_id" : 77,
+		"name" : "OCR",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 30,
+		"country_id" : 77,
+		"name" : "WJEC\/Eduqas",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 31,
+		"country_id" : 77,
+		"name" : "UK",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 32,
+		"country_id" : 77,
+		"name" : "Caribbean Examinations Council",
+		"created_at" : "2020-04-06 06:36:38"
+	},
+	{
+		"id" : 33,
+		"country_id" : 160,
+		"name" : "NamCol",
+		"created_at" : "2022-06-09 09:13:42"
+	},
+	{
+		"id" : 34,
+		"country_id" : 160,
+		"name" : "NIED",
+		"created_at" : "2022-06-09 09:13:43"
+	}
+]}

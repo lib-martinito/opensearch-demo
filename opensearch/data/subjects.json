@@ -1,0 +1,253 @@
+{
+"subjects": [
+	{
+		"id" : 1,
+		"country_id" : 13,
+		"name" : "Australian Curriculum",
+		"pretty_url" : "Australian-Curriculum",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2020-01-16 15:27:03"
+	},
+	{
+		"id" : 2,
+		"country_id" : 77,
+		"name" : "Arts",
+		"pretty_url" : "Arts",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-01-25 02:11:54"
+	},
+	{
+		"id" : 3,
+		"country_id" : 77,
+		"name" : "Business, Economics, and Legal",
+		"pretty_url" : "Business-Economics-and-Legal",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-01-25 02:11:54"
+	},
+	{
+		"id" : 4,
+		"country_id" : 77,
+		"name" : "English",
+		"pretty_url" : "English",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-01-25 02:11:54"
+	},
+	{
+		"id" : 5,
+		"country_id" : 77,
+		"name" : "English (Shakespeare)",
+		"pretty_url" : "English-Shakespeare",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-02-08 00:09:33"
+	},
+	{
+		"id" : 6,
+		"country_id" : 77,
+		"name" : "Technology ( inc. Food )",
+		"pretty_url" : "Technology-inc-Food-",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2015-09-10 14:36:22"
+	},
+	{
+		"id" : 7,
+		"country_id" : 77,
+		"name" : "Geography",
+		"pretty_url" : "Geography",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-01-25 02:11:54"
+	},
+	{
+		"id" : 8,
+		"country_id" : 77,
+		"name" : "Health & PE",
+		"pretty_url" : "Health-PE",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-01-25 02:11:54"
+	},
+	{
+		"id" : 9,
+		"country_id" : 77,
+		"name" : "History",
+		"pretty_url" : "History",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-01-25 02:11:54"
+	},
+	{
+		"id" : 10,
+		"country_id" : 77,
+		"name" : "Homework",
+		"pretty_url" : "Homework",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-02-10 05:19:38"
+	},
+	{
+		"id" : 12,
+		"country_id" : 77,
+		"name" : "International Education",
+		"pretty_url" : "International-Education",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-01-25 02:11:54"
+	},
+	{
+		"id" : 13,
+		"country_id" : 77,
+		"name" : "IWB Software",
+		"pretty_url" : "IWB-Software",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-01-25 02:11:54"
+	},
+	{
+		"id" : 14,
+		"country_id" : 77,
+		"name" : "Latin and other Languages",
+		"pretty_url" : "Latin-and-other-Languages",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-01-25 02:11:54"
+	},
+	{
+		"id" : 15,
+		"country_id" : 77,
+		"name" : "Literacy",
+		"pretty_url" : "Literacy",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-02-10 05:20:23"
+	},
+	{
+		"id" : 16,
+		"country_id" : 77,
+		"name" : "Mathematics",
+		"pretty_url" : "Mathematics",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-01-25 02:11:54"
+	},
+	{
+		"id" : 17,
+		"country_id" : 77,
+		"name" : "Philosophy and Critical Thinking",
+		"pretty_url" : "Philosophy-and-Critical-Thinking",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-02-10 05:19:58"
+	},
+	{
+		"id" : 18,
+		"country_id" : 77,
+		"name" : "Religion",
+		"pretty_url" : "Religion",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-01-25 02:11:54"
+	},
+	{
+		"id" : 19,
+		"country_id" : 77,
+		"name" : "Sciences",
+		"pretty_url" : "Sciences",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-01-25 02:11:54"
+	},
+	{
+		"id" : 20,
+		"country_id" : 77,
+		"name" : "Special Needs",
+		"pretty_url" : "Special-Needs",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-01-25 02:11:54"
+	},
+	{
+		"id" : 21,
+		"country_id" : 77,
+		"name" : "Study Guides",
+		"pretty_url" : "Study-Guides",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-01-25 02:11:54"
+	},
+	{
+		"id" : 23,
+		"country_id" : 77,
+		"name" : "Vocational",
+		"pretty_url" : "Vocational",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-01-25 02:11:54",
+		"updated_at" : "2013-01-25 02:11:54"
+	},
+	{
+		"id" : 26,
+		"country_id" : 77,
+		"name" : "Outdoor and Environmental Studies",
+		"pretty_url" : "Outdoor-and-Environmental-Studies",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2013-07-11 14:09:07",
+		"updated_at" : "2013-07-11 14:09:07"
+	},
+	{
+		"id" : 27,
+		"country_id" : 13,
+		"name" : "Humanities",
+		"pretty_url" : "Humanities",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2014-05-05 13:14:39",
+		"updated_at" : "2014-05-05 13:14:39"
+	},
+	{
+		"id" : 28,
+		"country_id" : 77,
+		"name" : "IT and other Technology",
+		"pretty_url" : "Unverified-Pretty-Url",
+		"description" : "Description",
+		"is_enabled" : 1,
+		"created_at" : "2019-06-19 03:16:11",
+		"updated_at" : "2019-06-19 03:16:11"
+	},
+	{
+		"id" : 29,
+		"country_id" : 77,
+		"name" : "TEST Subject 01",
+		"pretty_url" : "TEST-Subject-01",
+		"description" : "",
+		"is_enabled" : 1,
+		"created_at" : "2019-11-13 13:45:27",
+		"updated_at" : "2019-11-19 17:23:35"
+	}
+]}

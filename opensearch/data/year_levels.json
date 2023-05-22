@@ -1,0 +1,201 @@
+{
+"year_levels": [
+	{
+		"id" : 1,
+		"country_id" : 13,
+		"level" : "F",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 2,
+		"country_id" : 13,
+		"level" : "F-2",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 3,
+		"country_id" : 13,
+		"level" : "F-6",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 4,
+		"country_id" : 13,
+		"level" : "1",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 5,
+		"country_id" : 13,
+		"level" : "2",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 6,
+		"country_id" : 13,
+		"level" : "3",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 7,
+		"country_id" : 13,
+		"level" : "4",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 8,
+		"country_id" : 13,
+		"level" : "5",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 9,
+		"country_id" : 13,
+		"level" : "6",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 10,
+		"country_id" : 13,
+		"level" : "7",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 11,
+		"country_id" : 13,
+		"level" : "8",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 12,
+		"country_id" : 13,
+		"level" : "9",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 13,
+		"country_id" : 13,
+		"level" : "10",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 14,
+		"country_id" : 13,
+		"level" : "11",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 15,
+		"country_id" : 13,
+		"level" : "12",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 16,
+		"country_id" : 13,
+		"level" : "3-4",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 17,
+		"country_id" : 13,
+		"level" : "5-6",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 18,
+		"country_id" : 13,
+		"level" : "7-8",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 19,
+		"country_id" : 13,
+		"level" : "7-10",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 20,
+		"country_id" : 13,
+		"level" : "9-10",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 21,
+		"country_id" : 13,
+		"level" : "11-12",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 22,
+		"country_id" : 77,
+		"level" : "A level",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 23,
+		"country_id" : 77,
+		"level" : "Checkpoint",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 24,
+		"country_id" : 77,
+		"level" : "International AS and A Level",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 25,
+		"country_id" : 77,
+		"level" : "Primary",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 26,
+		"country_id" : 77,
+		"level" : "GCSE",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 27,
+		"country_id" : 77,
+		"level" : "Diploma",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 28,
+		"country_id" : 77,
+		"level" : "IGCSE",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 29,
+		"country_id" : 77,
+		"level" : "Lower Secondary",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 30,
+		"country_id" : 77,
+		"level" : "O Level",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 31,
+		"country_id" : 77,
+		"level" : "Pre–U",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 32,
+		"country_id" : 77,
+		"level" : "Primary Checkpoint",
+		"created_at" : "2020-04-06 06:36:49"
+	},
+	{
+		"id" : 33,
+		"country_id" : 77,
+		"level" : "CAPE",
+		"created_at" : "2020-04-06 06:36:49"
+	}
+]}
